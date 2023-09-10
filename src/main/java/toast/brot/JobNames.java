@@ -165,6 +165,29 @@ public class JobNames {
 
     private static final String Acolyte_Llama = "º¹»ç¾ËÆÄÄ«";
     private static final String Oktoberfest = "¿ÁÅä¹öÆÐ½ºÆ®";
+    private static final String unknown1 = "ÇÑº¹";
+    private static final String unknown2 = "ÇØÅÂ¼ºÁ¦";
+    private static final String unknown3 = "ÇØÅÂ¼Ò¿ï¸®ÆÛ";
+    private static final String unknown4 = "ÇÁ·ÎÆä¼\u00AD";
+    private static final String unknown5 = "ÇÁ·Î¼¼¼";
+    private static final String unknown6 = "Å¸Á¶¹«Èñ";
+    private static final String unknown7 = "Áý½Ã";
+    private static final String unknown8 = "¿©¸§2";
+    private static final String unknown9 = "¾ËÄÉ¹Ì½ºÆ®";
+    private static final String unknown10 = "¼Ò¿ï¸®ÆÛ";
+    private static final String unknown11 = "¼ºÁ¦À¶ÇÕ";
+    private static final String unknown12 = "¼ºÁ¦";
+    private static final String unknown13 = "¹«Èñ¹ÙÁö";
+    private static final String unknown14 = "¹«Èñ";
+    private static final String unknown15 = "¸®º§¸®¿Â";
+    private static final String unknown16 = "summoner_ÇÑº¹";
+    private static final String unknown17 = "summoner";
+    private static final String unknown18 = "cart_summoner";
+    private static final String unknown19 = "rebellion";
+    private static final String unknown20 = "peco_rebellion";
+    private static final String unknown21 = "oboro";
+
+
 
     public static List<String> ALL_JOB_NAMES = List.of(
             Ninja,
