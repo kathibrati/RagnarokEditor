@@ -62,8 +62,9 @@ public class NamedFileGenerator {
 
                     System.out.println("Files have been created in the output directory.");
 
-            } else {
-                System.out.println("Output selection canceled.");
+                } else {
+                    System.out.println("Output selection canceled.");
+                }
             }
         }
     }
