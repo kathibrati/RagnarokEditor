@@ -37,6 +37,10 @@ public class NamedFileGenerator {
     }
 
     private static String getOutputPath() {
+        return getString();
+    }
+
+    static String getString() {
         String outputPath = "";
 
         JFileChooser outputChooser = new JFileChooser();
